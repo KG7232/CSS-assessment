@@ -1,0 +1,13 @@
+h1,h3,h4{
+    color: tomato;
+
+}
+ul, ol,p{
+color: maroon;
+
+}
+ul{
+letter-spacing:6px;
+word-spacing: 4px;
+
+}
